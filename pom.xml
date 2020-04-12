@@ -21,12 +21,12 @@
   <distributionManagement>
 		 <snapshotRepository>
 		    <id>nexus</id>
-		    <url>http://52.66.202.153:8081/repository/car-rent-snapshot//</url>
+		    <url>http://172.31.45.68:8081/repository/practise-maven-release/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexus</id>
-		    <url>http://52.66.202.153:8081/repository/car-rent-snapshot//</url>
+		    <url>http://172.31.45.68:8081/repository/practise-maven-snapshot/</url>
 		</repository>
   	</distributionManagement>
 </project>
